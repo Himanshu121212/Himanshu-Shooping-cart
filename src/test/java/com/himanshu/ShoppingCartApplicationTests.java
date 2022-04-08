@@ -1,4 +1,4 @@
-package com.reljicd;
+package com.himanshu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
